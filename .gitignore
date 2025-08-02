@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+sum_env/
+
+# Model files
+*.safetensors
+core/models/
+models/Bart/
+models/Marian/
+models/nltk_data/
+models/translation_models/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+data/
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
