@@ -71,7 +71,7 @@ pdf_summarize/
 
 ```bash
 git clone https://github.com/CalebLaurent509/pfd_summarize_system.git
-cd pdf_summarize
+cd pdf_summarize_system
 ```
 
 2. **Create virtual environment**
