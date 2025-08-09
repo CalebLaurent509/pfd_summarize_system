@@ -70,7 +70,7 @@ pdf_summarize/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/CalebLaurent509/pfd_summarize_system.git
+git clone https://github.com/CalebLaurent509/pdf_summarize_system.git
 cd pdf_summarize_system
 ```
 
